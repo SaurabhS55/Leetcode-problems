@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 #include<iostream>
+#include <map>
 class MyHashMap {
 public:
     map<int,int> q;
